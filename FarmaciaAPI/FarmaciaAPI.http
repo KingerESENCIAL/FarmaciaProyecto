@@ -1,0 +1,6 @@
+@FarmaciaAPI_HostAddress = http://192.168.1.93:5247
+
+GET {{FarmaciaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
